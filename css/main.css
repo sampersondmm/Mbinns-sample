@@ -6,7 +6,6 @@
 body { 
 }
 .body {
-	border: 1px solid black;
 }
 .header { 
 	width: 100%; 
@@ -48,11 +47,9 @@ img {
 	margin-left:40px;
 	border-radius:50%;
 	position: absolute;
-	border: 1px solid black;
 	z-index:2;
 }
 .logobox {
-	border: 5px solid black;
 	display:inline-block;
 	z-index:2;
 }
