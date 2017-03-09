@@ -45,6 +45,7 @@ img {
 #mrbinns {
 	height:254px;
  	width:212px;
+	border:1px solid black;
 	margin-top:-150px;
 	margin-left:40px;
 	border-radius:50%;
