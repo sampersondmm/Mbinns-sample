@@ -40,10 +40,11 @@ body {
     }
 img {
 	width:212px;
-	height:252px;
+	height:254px;
 }   
 #mrbinns {
 	height:254px;
+	border:1px solid black;
  	width:212px;
 	margin-top:-150px;
 	margin-left:40px;
@@ -60,7 +61,7 @@ img {
 	
 }
 #p1 {
-	font-family: gothic;
+	font-family: gothic
 	margin-top:180px;
 	margin-left: 10%;
 	margin-right: 10%;
