@@ -17,6 +17,7 @@ body {
 	padding: 5%;
 }
 .box123 {
+    width: 60%;
     margin-top:-35px;
     border-radius:5px;
     margin-left:260px;
@@ -61,12 +62,9 @@ img {
 }
 #p1 {
 	font-family: gothic
-	margin-top: 180px;
+	margin: 180px 10% 0 10%;
 	border: 1px solid black
-	margin-left: 10%;
-	margin-right: 10%;
 	}
 p {
 	border:1px solid black;
-	margin-top:180px;
 }
