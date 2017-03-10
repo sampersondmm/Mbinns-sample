@@ -39,13 +39,13 @@ body {
     z-index:2;
     }
 img {
-	width:212px;
-	height:252px;
+	width:214px;
+	height:261px;
 }   
 #mrbinns {
-	height:270px;
+	height:261px;
 	border:1px solid black;
- 	width:212px;
+ 	width:214px;
 	margin-top:-150px;
 	margin-left:40px;
 	border-radius:50%;
@@ -67,3 +67,6 @@ img {
 	margin-left: 10%;
 	margin-right: 10%;
 	}
+p {
+	border:1px solid black;
+}
