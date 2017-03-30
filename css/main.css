@@ -1,40 +1,41 @@
 * { 
 	margin: 0px; padding: 0px; 
-	font-family: 'Georgia', 'Times', serif;
+	
 }
 body { 
 }
 .body {
 }
-.header { 
+#header { 
 	width: 100%; 
 	height: 180px; 
-	background: #7fa830; 
+	background: #697d31; 
 }
-.content {
+#content {
 	margin: 5%; 
 	padding: 5%;
 }
-.box123 {
-    width: 60%;
-    margin-top:-35px;
-    border-radius:5px;
-    margin-left:260px;
-    position:absolute;
-    text-align:left;
-    background-color: #333;
-    border:2px solid black;
-    display:inline-block;
+#box123 {
+	padding:5px;
+	width: auto;
+	border-radius: 5px;
+	margin-left: 260px;
+	position: absolute;
+	background-color: #333;
+	border: 1px solid black;
+	left: 3px;
+	top: 165px;
     }
-#b1,#b2,#b3,#b4,#b5,#b6 {
+#box123 li {
     font-size:18px;
-    font-family: impact;
-    text-decoration:underline;
+	text-align:left;
+    font-family: "angkor";
+    text-decoration:none;
     text-transform:uppercase;
     font-weight:bold;
     background-color: #333;
     color:white;
-    margin-left:8%;
+    margin-left:10px;
     display:inline;
     z-index:2;
     }
@@ -42,7 +43,7 @@ img {
 	width:214px;
 	height:261px;
 }   
-#mrbinns {
+#mrbinns img {
 	height:261px;
  	width:214px;
 	margin-top:-150px;
@@ -51,19 +52,13 @@ img {
 	position: absolute;
 	z-index:2;
 }
-.logobox {
-	display:inline-block;
+#logobox {
 	z-index:2;
+	height:auto;
 }
-.content {
-	margin: 0;
-	
-}
-#p1 {
+#content p {
 	font-family: gothic
-	margin-top: 180px;
-	}
-p {
 	border:1px solid black;
-	margin-top: 180px;
+    border:1px solid black;
+	margin-top: 90px;
 }
